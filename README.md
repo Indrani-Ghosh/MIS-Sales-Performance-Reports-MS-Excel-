@@ -1,5 +1,5 @@
 # MIS-Sales-Performance-Reports-MS-Excel
-
+![sales pic](https://github.com/Indrani-Ghosh/MIS-Sales-Performance-Reports-MS-Excel-/blob/main/Sales%20and%20performance.png)
 
 
 **Developed a comprehensive a MIS report to monitor sales & profit performance, customer behaviour and delivered insights that support management to evaluate business performance.**
